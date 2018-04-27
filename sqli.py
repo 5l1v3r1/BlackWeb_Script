@@ -54,7 +54,7 @@ print  """
                                                                 
                                                      
                   SQLinjection server scanner ( Ip Based)
-Greetz to: Cod3D Br4in | CyB3R_BL45t3r | Mind HaXor | mr.sph1nx -
+Greetz to: Cod3D Br4in | Dead Inside | CyB3R_BL45t3r | Mind HaXor | mr.sph1nx | Root Injector-
     """
 param1 = raw_input("IP : ")
 param2 = raw_input("Filename :  ")
